@@ -1,0 +1,19 @@
+{
+  "name": "Órbita",
+  "short_name": "Órbita",
+  "description": "Sua comunidade em órbita.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07060F",
+  "theme_color": "#07060F",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
